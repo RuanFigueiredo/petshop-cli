@@ -8,6 +8,6 @@ function listar(){
     console.table(cachorros);
 }
 
-module.exports = {
+let funcoes = module.exports = {
     listar
 }
