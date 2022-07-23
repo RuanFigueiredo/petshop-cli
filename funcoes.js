@@ -22,7 +22,7 @@ function descrever(){
     if(!cachorro){
         return `Não existe cachorro com o id ${id}`
     }else{
-        return cachorros
+        return cachorros    
     }
     return cachorro
     
