@@ -3,6 +3,7 @@ Implemente as funções salvar e buscar por id.
 Elas já estão posicionadas no arquivo funcoes.js.
 As demais funções abaixo devem ser criadas como atributo do objeto
 literal que será exportado.
+conteúdo que será utilizado: método de arrays, manipulação de arquivos
 
 ☐ Implemente a função salvar.(feito)
   . Ela precisa salvar o conteúdo da constante cachorros no arquivo database/cachorros.json

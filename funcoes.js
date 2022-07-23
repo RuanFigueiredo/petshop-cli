@@ -18,6 +18,13 @@ function listar(){
 }
 
 function descrever(){
+    const cachorro  = cachorros.find(cachorro=>cachorro.id == id);    
+    if(!cachorro){
+        return `Não existe cachorro com o id ${id}`
+    }else{
+        return cachorros
+    }
+    return cachorro
     
 }
 
